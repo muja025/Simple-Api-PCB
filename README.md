@@ -8,4 +8,4 @@
   - clone repo
 
 # Instalasi Paket
-  - pip install -r requirement
+  - pip install -r requirement wwkwkwkwk
